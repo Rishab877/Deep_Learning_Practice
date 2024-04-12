@@ -1,2 +1,2 @@
-# Deep_Learning_Practice
-This repository is my personal space for exploring deep learning. It features code, tutorials, and experiments on neural networks, CNNs, RNNs, GANs, NLP, and more.
+# Deep Learning Practice Repository
+This repository serves as a personal workspace for practicing various deep learning concepts and techniques. It contains code implementations, tutorials, and experiments focused on topics such as neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative adversarial networks (GANs), natural language processing (NLP), and more.
